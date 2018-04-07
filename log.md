@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [Override Class Declarations with Inline Styles](https://www.freecodecamp.org/challenges/override-class-declarations-with-inline-styles)
 2. [Use Abbreviated Hex Code](https://www.freecodecamp.org/challenges/use-abbreviated-hex-code)
+
+
+### Day 2: Friday, April 6, 2018
+
+**Today's Progress**: Completed HTML5/CSS, Bootstrap, and started jQuery.
+
+**Thoughts**: Is Bootstrap pretty much an interactive replacement for CSS?
+
+**Link(s) to work**
+1. [Use Responsive Design with Bootstrap Fluid Containers](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
+2. [Ditch Custom CSS for Bootstrap](https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap)
