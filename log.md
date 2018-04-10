@@ -20,3 +20,12 @@
 **Link(s) to work**
 1. [Use Responsive Design with Bootstrap Fluid Containers](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
 2. [Ditch Custom CSS for Bootstrap](https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap)
+
+
+### Day 3: Friday, April 7, 2018
+
+**Today's Progress**: Completed jQuery. Looked at requirements for first project.
+
+**Thoughts**: Cannot brain today. Looking at the project made me forget everything I've worked on the last few days.
+
+
