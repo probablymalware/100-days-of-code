@@ -35,3 +35,12 @@
 
 **Thoughts**: Writing code from scratch is a lot more difficult than adding code to something already written.
 
+
+### Day 5: Wednesday, April 11, 2018
+
+**Today's Progress**: Completed first project, as much as I could do without diving into my books about the subject, anyway.
+
+**Thoughts**: Okay, so apparently there's quite a bit of HTML4 that has deprecated over the switch to HTML5 that I need to learn.
+
+**Link(s) to work**
+1. [Tribute Page: Kevin Mitnick](https://codepen.io/probablymalware/full/QmJVLV/)
