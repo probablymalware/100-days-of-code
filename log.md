@@ -22,10 +22,16 @@
 2. [Ditch Custom CSS for Bootstrap](https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap)
 
 
-### Day 3: Friday, April 7, 2018
+### Day 3: Saturday, April 7, 2018
 
 **Today's Progress**: Completed jQuery. Looked at requirements for first project.
 
 **Thoughts**: Cannot brain today. Looking at the project made me forget everything I've worked on the last few days.
 
+
+### Day 4: Tuesday, April 10, 2018
+
+**Today's Progress**: Started first project.
+
+**Thoughts**: Writing code from scratch is a lot more difficult than adding code to something already written.
 
