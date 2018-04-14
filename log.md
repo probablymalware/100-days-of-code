@@ -44,3 +44,10 @@
 
 **Link(s) to work**
 1. [Tribute Page: Kevin Mitnick](https://codepen.io/probablymalware/full/QmJVLV/)
+
+
+### Day 6: Friday, April 13, 2018
+
+**Today's Progress**: Started creating a portfolio project. Laid the bootstrap framework.
+
+**Thoughts**: Yay bootstrap!
