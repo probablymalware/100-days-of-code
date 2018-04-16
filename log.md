@@ -51,3 +51,10 @@
 **Today's Progress**: Started creating a portfolio project. Laid the bootstrap framework.
 
 **Thoughts**: Yay bootstrap!
+
+
+### Day 7: Friday, April 16, 2018
+
+**Today's Progress**: Worked on getting the portfolio examples set on the page. Learned some new bootstrap using thumbnail images.
+
+**Thoughts**: Bootstrap seems to be a lot more robust than I originally thought it would be. I originally saw it as just a way to make things responsive for mobile devices.
